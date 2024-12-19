@@ -10,5 +10,8 @@
 const urls = [
 	'https://www.surveycake.com/s/K6QgD?aka_abtest=ans_a',
 	'https://www.surveycake.com/s/K6QgD?aka_abtest=ans_b',
-	'https://www.surveycake.com/s/K6QgD?aka_abtest=ans_c'
+	'https://www.surveycake.com/s/K6QgD?aka_abtest=ans_c',
+	'https://www.surveycake.com/s/K6QgD?aka_abtest=ans_d',
+	'https://www.surveycake.com/s/K6QgD?aka_abtest=ans_e',
+	'https://www.surveycake.com/s/K6QgD?aka_abtest=ans_f'
 ];
